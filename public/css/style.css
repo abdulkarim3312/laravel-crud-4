@@ -1,0 +1,45 @@
+.bg-section
+{
+    height: 530px;
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.top_100
+{
+    top: 10%;
+}
+.img-top
+{
+    margin: 10px;
+    border-radius: 25px;
+}
+.my-heading
+{
+    font-size: 44px;
+    color: #ffcb0f;
+}
+.my-paragraph
+{
+    font-size: 34px;
+    margin: 2px 0 30px 0;
+    text-transform: inherit;
+}
+.p-content
+{
+    line-height: 16px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+.about_bg
+{
+    background-image: url(../img/about_bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.md-img
+{
+    width: 100%;
+    vertical-align: middle;
+}
